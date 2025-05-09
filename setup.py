@@ -10,7 +10,7 @@ __version__  = "0.0.0"
 
 REPO_NAME = " TEXT_SUMMARIZER"
 AUTHOR_NAME = "Shreyas Mulavekar"
-SRC_REPO = "textsummarizer"
+SRC_REPO = "textsummarization"
 AUTHOR_MAIL="shreyas.mulavekar232@vit.edu"
 
 setuptools.setup(
